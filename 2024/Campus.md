@@ -14,5 +14,11 @@
 
 ## Contexto: Inside Out
 
-Estamos todos soñando. Tenemos que recuperar los recuerdos para poder despertarnos! Vamos a tener que ir a distintas zonas de nuestra mente (pruebas) e ir recuperando nuestros recuerdos. Finalmente tenemos que reunirlos todos y despertarnos a la vez (prueba final conjunta)
+Estamos todos soñando. Tenemos que recuperar los recuerdos para poder despertarnos! Vamos a tener que ir a distintas zonas de nuestra mente (pruebas) e ir recuperando nuestros recuerdos. Finalmente tenemos que reunirlos todos y despertarnos a la vez (prueba final conjunta).
+
+## Pruebas
+
+- Prueba de memoria
+- Prueba de agilidad
+- Prueba 
 
