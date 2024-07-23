@@ -49,3 +49,4 @@ Dos manteles de papel con diana dibujada y esponjas con pintura o agua con color
 - **Cómo mancharse**: Al meter las manos en el lodo, los niños se ensuciarán buscando los objetos.
 
 Harina y agua.
+
