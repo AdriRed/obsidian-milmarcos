@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "207e2044c3bfceba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "80036902f07318bc",
+  "active": "207e2044c3bfceba",
   "lastOpenFiles": [
     "2024",
     "2024/Campus.md"
