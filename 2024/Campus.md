@@ -49,4 +49,12 @@ Dos manteles de papel con diana dibujada y esponjas con pintura o agua con color
 - **Cómo mancharse**: Al meter las manos en el lodo, los niños se ensuciarán buscando los objetos.
 
 Harina y agua.
+## Equipos
 
+Tendrán que ser 4 equipos equipo Alegría (amarillo), equipo Tristeza (azul), equipo Furia (rojo) y equipo Asco (verde).
+
+Se puede llegar a dar ventaja a los equipos según la prueba. En la prueba de alegría el equipo de alegría puede tener ventaja.
+
+### Ventajas
+
+- **Alegría**: 
