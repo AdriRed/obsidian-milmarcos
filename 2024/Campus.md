@@ -48,7 +48,7 @@ Dos manteles de papel con diana dibujada y esponjas con pintura o agua con color
 - **Descripción**: Llena una caja grande con lodo (puedes hacer lodo casero con tierra y agua) y esconde pequeños objetos o juguetes temáticos de Inside Out. Los niños deben buscar los objetos en el lodo.
 - **Cómo mancharse**: Al meter las manos en el lodo, los niños se ensuciarán buscando los objetos.
 
-Harina y agua.
+Típica prueba de Harina y agua:
 ## Equipos
 
 Tendrán que ser 4 equipos equipo Alegría (amarillo), equipo Tristeza (azul), equipo Furia (rojo) y equipo Asco (verde).
