@@ -1,4 +1,7 @@
 # Actividades
+
+Adjuntamos el material necesario para cada día del campus. Entendemos que habrá materiales en la Asociación. En caso de no haber materiales, necesitarían ser comprados por parte de la Asociación.
+
 - Dia 6
 	- Mañana: Juegos de agua + guerra
 	- Material:
