@@ -1,13 +1,39 @@
 # Actividades
 - Dia 6
 	- Mañana: Juegos de agua + guerra
+	- Material:
+		- Globos de agua
+		- Barreños
+		- Pistolas de agua
+		- Lonas de plástico
 - Dia 7: 
 	- Mañana: Pucherillo + piscina
+	- Materiales:
+		- Cuerda
+		- Pelota
+		- Churros
+		- Pistolas de agua
+		- Dibujos
+		- Pintura
 	- Tarde: Taller de arcilla
+		- Arcilla
+		- Barreños
+		- Alambre
 - Dia 8:
 	- Tarde: Pintura de mural con manos y pies
+	- Materiales
+		- Mantel de mesas de papel
+		- Pinturas
+		- Pinceles
+		- Platos de plástico
 - Dia 9: 
-	- Mañana: taller de escapar de cabezudos + piscina (a poder ser quitamos esto)
+	- Mañana: juegos tradicionales
+		- Peonzas
+		- Pelotas 
+		- Petanca
+		- Diabolo
+		- Malabares
+		- Cometas
 	- Tarde: macrojuego
 
 # Macrojuego
@@ -34,6 +60,8 @@ Los recuerdos deberán ser 2 hojas de papel. Cada hoja de papel será dividida e
 - **Cómo mancharse**: Al reventar los globos, el agua de colores salpicará a los niños.
 
 Prueba de pasarse globos con agua con colorante. Algunos de los globos tienen notas musicales. Hasta que no encuentren tres notas musicales tienen que estar haciendo las pruebas. 
+#### Materiales
+
 ### Prueba 2: Tristeza
 
 **Actividad**: Carrera de pintura con los pies.
@@ -57,7 +85,7 @@ Dos manteles de papel con diana dibujada y esponjas con pintura. Tienen que lleg
 - **Descripción**: Llena una caja grande con lodo (puedes hacer lodo casero con tierra y agua) y esconde pequeños objetos o juguetes temáticos de Inside Out. Los niños deben buscar los objetos en el lodo.
 - **Cómo mancharse**: Al meter las manos en el lodo, los niños se ensuciarán buscando los objetos.
 
-Típica prueba de Harina y agua. Deben encontrar X caramelos rojos.
+Típica prueba de Harina y agua. Deben encontrar X caramelos verdes.
 
 ### Pruba 5: Miedo
 
