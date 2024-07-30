@@ -35,6 +35,29 @@
 		- Malabares
 		- Cometas
 	- Tarde: macrojuego
+		- Prueba 1:
+			- Globos de agua
+			- Colorante amarillo
+			- Celo ancho
+			- Barreños
+		- Prueba 2:
+			- Lona de plástico
+			- Jabón
+			- Barreños
+			- Huevos
+			- Pintura o colorante azul
+		- Prueba 3:
+			- Mantel de papel
+			- Esponjas
+			- Colorante rojo
+		- Prueba 4:
+			- Colorante verde
+			- Harina
+			- Caramelos
+		- Prueba 5:
+			- Canicas
+			- Maicena
+			- Colorante lila/morado
 
 # Macrojuego
 
