@@ -57,7 +57,7 @@
 		- Prueba 5:
 			- Canicas
 			- Maicena
-			- Colorante lila/morado
+			- Colorante lila/morado (si no, sustituir con mora)
 
 # Macrojuego
 
