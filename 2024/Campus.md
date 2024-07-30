@@ -33,7 +33,7 @@ Los recuerdos deberán ser 2 hojas de papel. Cada hoja de papel será dividida e
 - **Descripción**: Llena globos con agua teñida de diferentes colores (puedes usar colorantes alimentarios). Los niños deben reventar los globos para encontrar una pequeña nota de "alegría" dentro de cada uno.
 - **Cómo mancharse**: Al reventar los globos, el agua de colores salpicará a los niños.
 
-Prueba de pasarse globos con agua con colorante. Algunos de los globos tienen notas musicales. Hasta que no encuentren tres notas musicales tienen que estar haciendo las pruebas.
+Prueba de pasarse globos con agua con colorante. Algunos de los globos tienen notas musicales. Hasta que no encuentren tres notas musicales tienen que estar haciendo las pruebas. 
 ### Prueba 2: Tristeza
 
 **Actividad**: Carrera de pintura con los pies.
@@ -41,7 +41,7 @@ Prueba de pasarse globos con agua con colorante. Algunos de los globos tienen no
 - **Descripción**: Prepara un tramo de papel grande (puede ser papel de embalar) y pon bandejas con pintura azul. Los niños deben mojar sus pies en la pintura y correr a lo largo del papel.
 - **Cómo mancharse**: Al caminar descalzos en la pintura, se mancharán los pies y dejarán huellas en el papel.
 
-Relevos en una lona azul con agua y jabon para que resbale. 
+Llevar un huevo como testigo en relevos en una lona azul con agua y jabon para que resbale. 
 ### Prueba 3: Furia
 
 **Actividad**: Lanzamiento de esponjas con pintura roja.
@@ -49,7 +49,7 @@ Relevos en una lona azul con agua y jabon para que resbale.
 - **Descripción**: Coloca un objetivo grande (puede ser una diana dibujada en una sábana vieja) y da a los niños esponjas empapadas en pintura roja. Tienen que lanzarlas y tratar de acertar en el centro.
 - **Cómo mancharse**: Las esponjas salpicaran pintura al lanzarlas, manchando tanto el objetivo como a los niños.
 
-Dos manteles de papel con diana dibujada y esponjas con pintura. Tienen que llegar a X puntos para terminar la prueba.
+Dos manteles de papel con diana dibujada y esponjas con pintura. Tienen que llegar a X puntos para terminar la prueba. 
 ### Prueba 4: Asco
 
 **Actividad**: Búsqueda en la caja de lodo.
@@ -64,8 +64,12 @@ Típica prueba de Harina y agua. Deben encontrar X caramelos rojos.
 Actividad: encontrar canicas en tarros que no saben que hay dentro (Halloween).
 Podemos poner pelos, moras, arena, tierra, agua, barro, pintura... Para que no sepan que hay dentro.
 
+Si meten la mano en un bote que no es el adecuado podemos darles un tartazo de nata.
+
 ## Prueba final
 
 En la prueba final todos los equipos serán necesarios para poder juntar todas las piezas de los recuerdos de Riley.
+
+
 
 

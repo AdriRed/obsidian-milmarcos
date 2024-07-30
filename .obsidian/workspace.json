@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e7203f51c6dbb46",
+        "id": "9d061752104a4244",
         "type": "tabs",
         "children": [
           {
-            "id": "71fb9510becf1c73",
+            "id": "42432fbb34f00bd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6c0dcbd8a8610f99",
@@ -155,7 +154,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "71fb9510becf1c73",
+  "active": "42432fbb34f00bd4",
   "lastOpenFiles": [
     "2024/Campus.md",
     "2024"
