@@ -69,7 +69,7 @@ donde el agua y las risas son siempre bienvenidos y celebrados."
 
 ### Pista de Tristeza - AZUL (Final de Calle Valencia)
 
-"Donde la calle llega al final sin más,  
+"Donde la pueblo llega al final sin más,  
 ahí está el punto donde el pueblo empieza y se va."
 
 ### Pista de Furia - ROJO (Interpeñas)
