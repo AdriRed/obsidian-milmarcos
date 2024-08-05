@@ -63,9 +63,9 @@ En la prueba final todos los equipos serán necesarios para poder juntar todas l
 ![[Mapa macrojuego.png]]
 
 Pista de Alegría AMARILLO (Piscina): En los días cálidos, este lugar es un oasis de frescura. Sumérgete en el rincón donde el agua trae alivio y las risas resuenan en el aire
-Pista de Tristeza AZUL (Alvaritos):
+Pista de Tristeza AZUL (Final de Calle Valencia): Cual es la calle de entrada y salida del pueblo
 Pista de Furia ROJO (Interpeñas): En fiestas es un lugar donde se juntan las peñas.
 Pista de Asco VERDE (Teatro): Busca el lugar donde las historias cobran vida y los aplausos llenan el aire, un espacio mágico de espectáculos y actuaciones
-Pista de Miedo MORADO (Sapa):
+Pista de Miedo MORADO (Sappagarigulo): Cuál es la peña con el nombre más largo y dificil de pronunciar?
 
 Pista final BLANCO (Frontón): 
