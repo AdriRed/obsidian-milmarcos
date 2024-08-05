@@ -62,10 +62,27 @@ En la prueba final todos los equipos serán necesarios para poder juntar todas l
 
 ![[Mapa macrojuego.png]]
 
-Pista de Alegría AMARILLO (Piscina): En los días cálidos, este lugar es un oasis de frescura. Sumérgete en el rincón donde el agua trae alivio y las risas resuenan en el aire
-Pista de Tristeza AZUL (Final de Calle Valencia): Cual es la calle de entrada y salida del pueblo
-Pista de Furia ROJO (Interpeñas): En fiestas es un lugar donde se juntan las peñas.
-Pista de Asco VERDE (Teatro): Busca el lugar donde las historias cobran vida y los aplausos llenan el aire, un espacio mágico de espectáculos y actuaciones
-Pista de Miedo MORADO (Sappagarigulo): Cuál es la peña con el nombre más largo y dificil de pronunciar?
+### Pista de Alegría - AMARILLO (Piscina)
 
-Pista final BLANCO (Frontón): 
+"En días calurosos, busca el rincón encantado,  
+donde el agua y las risas son siempre bienvenidos y celebrados."
+
+### Pista de Tristeza - AZUL (Final de Calle Valencia)
+
+"Donde la calle llega al final sin más,  
+ahí está el punto donde el pueblo empieza y se va."
+
+### Pista de Furia - ROJO (Interpeñas)
+
+"Cuando las fiestas llegan y el grupo se une,  
+es el lugar de las peñas, donde la diversión se resume."
+
+### Pista de Asco - VERDE (Teatro Zorrilla)
+
+"En el lugar donde el drama y la risa hacen su acto,  
+encontrarás el escenario lleno de aplausos y pacto."
+
+### Pista de Miedo - MORADO (Sappagarigulo)
+
+"Busca el nombre complicado que muchos temen decir,  
+la peña con el título largo que difícil es de oír."
