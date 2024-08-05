@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/Campus.md",
+                "file": "2024/Macrojuego.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,13 @@
             "id": "e165b55d8710af19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2024/Macrojuego.md",
-                "mode": "source",
-                "source": false
+                "file": "2024/Mapa macrojuego.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,9 +165,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e165b55d8710af19",
+  "active": "42432fbb34f00bd4",
   "lastOpenFiles": [
     "2024/Campus.md",
+    "2024/Mapa macrojuego.png",
     "2024/Macrojuego.md",
     "2024"
   ]

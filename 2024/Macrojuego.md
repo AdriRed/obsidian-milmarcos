@@ -60,8 +60,12 @@ En la prueba final todos los equipos serán necesarios para poder juntar todas l
 
 ## Distribución y pistas
 
-Pista de Alegría (Parque de jesús):
-Pista de Tristeza (Plaza):
-Pista de Furia (Interpeñas):
-Pista de Asco (Ermita de la Muela):
-Pista de Miedo (Eras altas):
+![[Mapa macrojuego.png]]
+
+Pista de Alegría AMARILLO (Parque de jesús):
+Pista de Tristeza AZUL (Alvaritos):
+Pista de Furia ROJO (Interpeñas):
+Pista de Asco VERDE (Ermita de la Muela):
+Pista de Miedo MORADO (Sapa):
+
+Pista final BLANCO (Frontón): 
