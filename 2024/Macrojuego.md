@@ -85,4 +85,4 @@ encontrarás el escenario lleno de aplausos y pacto."
 ### Pista de Miedo - MORADO (Sappagarigulo)
 
 "Busca el nombre complicado que muchos temen decir,  
-la peña con el título largo que difícil es de oír."
+la peña con el título más largo que difícil es de oír."
