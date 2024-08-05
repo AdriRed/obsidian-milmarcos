@@ -65,7 +65,7 @@ En la prueba final todos los equipos serán necesarios para poder juntar todas l
 Pista de Alegría AMARILLO (Piscina): En los días cálidos, este lugar es un oasis de frescura. Sumérgete en el rincón donde el agua trae alivio y las risas resuenan en el aire
 Pista de Tristeza AZUL (Alvaritos):
 Pista de Furia ROJO (Interpeñas): En fiestas es un lugar donde se juntan las peñas.
-Pista de Asco VERDE (Ermita de la Muela):
+Pista de Asco VERDE (Teatro): Busca el lugar donde las historias cobran vida y los aplausos llenan el aire, un espacio mágico de espectáculos y actuaciones
 Pista de Miedo MORADO (Sapa):
 
 Pista final BLANCO (Frontón): 
