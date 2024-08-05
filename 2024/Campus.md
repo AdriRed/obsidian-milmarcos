@@ -62,6 +62,16 @@ Adjuntamos el material necesario para cada día del campus. Entendemos que habr�
 			- Maicena
 			- Colorante lila/morado (si no, sustituir con mora)
 
+## Primer día: Juegos y guerra de agua
+
+Vamos a delimitar 3 actividades en zonas de juego y dividir a los niños. Cada 30 minutos rotar a los niños.
+
+### Zona de juego 1: Frontón
+
+### Zona de juego 2: Fuentecilla
+
+### Zona de juego 3: Pilón
+
 # Macrojuego
 
 ## Contexto: Inside Out
