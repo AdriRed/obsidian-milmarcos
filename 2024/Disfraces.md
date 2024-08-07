@@ -38,7 +38,11 @@ El Ring consistirá de 4 palos puestos en el suelo con 4 ladrillos y 2 cuerdas o
 
 Junto al Ring, podría haber una mesa con los jueces puestos hacia el propio Ring.
 
-Cuando esté montado, que se enciendan las luces, introducir el evento y empezar con las presentaciones. Se introducirá a la delegación y al final entrará desde el final del frontón con un pasillo (se tendrán que avisar al publico) y sonando música . En concreto la delegación española con Alvarito al frente, y la delegación colombiana, con Alberto al frente.  
+Cuando esté montado, que se enciendan las luces, introducir el evento y empezar con las presentaciones. Se introducirá a la delegación y al final entrará desde el final del frontón con un pasillo (se tendrán que avisar al publico) y sonando música (a apuntar). En concreto la delegación española con Alvarito al frente, y la delegación colombiana, con Alberto al frente.  
 
-Éstos dos serán los contrincantes, que participarán en el Ring. La pelea deberá ser rápida ya que habremos consumido mucho tiempo con las presentaciones. Cómo son dos Rounds, podríamos hacer rounds de 30, 45 segundos. Al final de la pelea, uno de los dos árbitros 
+Éstos dos serán los contrincantes, que participarán en el Ring. La pelea deberá ser rápida ya que habremos consumido mucho tiempo con las presentaciones. Como son dos Rounds, podríamos hacer rounds de 30, 45 segundos. Durante el descanso de Rounds, los contrincantes deberán ir a sus respectivas esquinas donde tendrán el apoyo del entrenador (taburete!) y su delegación. AL final del segundo round el contrincante de Colombia perderá y habrá un KO.
+
+Cuando se recupere, los jueces deberán de valorar y levantar uno de los números (altos). Y finalmente el árbitro deberá coger a los dos contrincantes y levantar la mano del de la delegación española y entregarle la medalla de oro.
+
+
 
