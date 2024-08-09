@@ -138,15 +138,16 @@ Mañana:
 - Eloy
 - Cris
 Tarde:
-- Lambán
-- David
-- Andrés
-- Marc
-- Adri
-- Alberto
-- Eloy
-- Cris
-- Inés
+- Lambán : P3 (inter)
+- David: E1
+- Andrés: E2
+- Marc: E3
+- Adri: P2 (sapagarigulo)
+- Alberto: E4
+- Eloy: P5 (alvaritos)
+- Cris: P1 (parque de jesús)
+- Inés: P4 (muela)
+- Belén: RILEY
 
 Este día será juegos con el material que nos hayan proporcionado por parte de la AAM. Juegos:
 - Rayuela

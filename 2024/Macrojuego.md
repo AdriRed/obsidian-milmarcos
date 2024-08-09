@@ -22,7 +22,7 @@ Los recuerdos deberán ser 2 hojas de papel. Cada hoja de papel será dividida e
 Prueba de pasarse globos con agua con colorante. Algunos de los globos tienen notas musicales. Hasta que no encuentren tres notas musicales tienen que estar haciendo las pruebas. 
 #### Materiales
 
-### Prueba 2: Tristeza (Plaza)
+### Prueba 2: Tristeza (Sapagarigulo)
 
 **Actividad**: Carrera de pintura con los pies.
 
@@ -47,7 +47,7 @@ Dos manteles de papel con diana dibujada y esponjas con pintura. Tienen que lleg
 
 Típica prueba de Harina y agua. Deben encontrar X caramelos verdes.
 
-### Pruba 5: Miedo (Eras altas)
+### Pruba 5: Miedo (Casa alvarito)
 
 Actividad: encontrar canicas en tarros que no saben que hay dentro (Halloween).
 Podemos poner pelos, moras, arena, tierra, agua, barro, pintura... Para que no sepan que hay dentro.
@@ -86,3 +86,39 @@ encontrarás el escenario lleno de aplausos y pacto."
 
 "Busca el nombre complicado que muchos temen decir,  
 la peña con el título más largo que difícil es de oír."
+
+## Personas y materiales necesarios
+
+## Equipos
+
+- David: Equipo 1
+- Andrés: Equipo 2
+- Marc: Equipo 3
+- Alberto: Equipo 4
+### Prueba 1 (Cristina Parque Jesús)
+#### Materiales 
+- Globos de agua
+- Colorante amarillo
+- Celo ancho
+- Barreños
+#### Explicación
+
+### Prueba 2:
+- Lona de plástico
+- Jabón
+- Barreños
+- Huevos
+- Pintura o colorante azul
+### Prueba 3:
+- Mantel de papel (dianas)
+- Esponjas
+- Colorante rojo y pintura roja
+- Dos cubos o barreños
+### Prueba 4:
+- Colorante verde
+- Harina
+- Caramelos
+### Prueba 5:
+- Canicas
+- Maicena
+- Colorante lila/morado (si no, sustituir con mora)
