@@ -89,6 +89,9 @@ la peña con el título más largo que difícil es de oír."
 
 ## Personas y materiales necesarios
 
+### Riley (Belén)
+
+
 ### Equipos
 
 - David: Equipo 1
@@ -151,8 +154,29 @@ Cuando todos los niños hayan acertado una vez en cada diana los niños habrán 
 
 #### Preparación
 
+Preparar dos barreños, uno con agua y otro con harina y caramelos.
 
-### Prueba 5:
+#### Ejecución
+
+Los niños cuando vengan tendrán que mojarse la cabeza e introducirla en el barreño con harina y, sin las manos, coger el caramelo con la boca. Cuando todos los niños tengan un caramelo habrán superado la prueba. Habrán niños que no querrán hacerla, no pasa nada pero vaya tontos xd.
+### Prueba 5 (Eloy - Casa Alvarito)
+
+#### Materiales
 - Canicas
-- Maicena
+- Cubos
+- Rellenos de cubos
+	- Maicena con agua (textura asquerasa)
+	- Mora con poca agua
+	- Barro 
+	- Pan de rana
 - Colorante lila/morado (si no, sustituir con mora)
+- Bolsas de plástico
+- Celo
+
+#### Preparación
+
+Llenar cubos con diversos materiales de relleno y tantas canicas como niños hay, y taparlos con una bolsa de plástico con un pequeño agujero para introducir la mano.
+
+#### Ejecución
+
+Los niños deberán de introducir la mano y conseguir una canica cada uno. Cuando la consigan los niños deberán recibir la pista de la Prueba 1. Igual que en la 4 habrán niños que no querrán hacerla, no pasa nada pero vaya tontos tambien xd.
