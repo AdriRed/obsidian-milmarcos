@@ -89,9 +89,15 @@ la peña con el título más largo que difícil es de oír."
 
 ## Personas y materiales necesarios
 
-### Riley (Belén)
+### Discurso de Riley (Belén)
 
+¡Hola a todos! ¡Qué alegría veros aquí! Veréis, me ha pasado algo muy raro... Estaba recordando lo divertido que es Milmarcos, con sus calles, sus rincones y todas las aventuras que he vivido aquí, ¡pero de repente, parece que he olvidado algunas cosas! No sé cómo ha ocurrido, pero estoy segura de que esos recuerdos están en algún lugar de mi cabeza.
 
+Esos recuerdos son muy importantes para mí, y creo que con vuestra ayuda podré recuperarlos. ¿Me ayudaríais? Cada rincón de este bonito pueblo guarda un pedacito de mi memoria, pero necesito vuestra ayuda para encontrarlos y recordarlos.
+
+Os prometo que mientras buscamos, nos lo pasaremos en grande. Puede que tengamos que correr, saltar, reírnos, y quizá hasta mojarnos un poco, pero estoy segura de que juntos conseguiremos que Milmarcos vuelva a estar completo en mi mente.
+
+Así que, ¿estáis listos para ayudarme a redescubrir todos los maravillosos recuerdos que tengo de este lugar? ¡Vamos a hacerlo juntos y a disfrutar de cada momento!
 ### Equipos
 
 - David: Equipo 1

@@ -165,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +177,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0b31e2d454d3dbe7",
+  "active": "80036902f07318bc",
   "lastOpenFiles": [
     "2024/Campus.md",
     "2024/Macrojuego.md",
