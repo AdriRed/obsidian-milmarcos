@@ -89,35 +89,69 @@ la peña con el título más largo que difícil es de oír."
 
 ## Personas y materiales necesarios
 
-## Equipos
+### Equipos
 
 - David: Equipo 1
 - Andrés: Equipo 2
 - Marc: Equipo 3
 - Alberto: Equipo 4
-### Prueba 1 (Cristina Parque Jesús)
+### Prueba 1 (Cristina - Parque Jesús)
 #### Materiales 
 - Globos de agua
 - Colorante amarillo
-- Celo ancho
+- Notas musicales
+	- Celo (plastificar)
+	- Papel
+	- Rotulador
 - Barreños
-#### Explicación
+#### Preparación
 
-### Prueba 2:
+Llenar globos con un poco de colorante amarillo y agua. En 3 globos tambien introducir enrollada una nota musical plastificada. Como mucho 10 globos en total por equipo
+
+#### Ejecución
+
+Los niños deben de pasarse los globos con distancia de 15 pasos (aprox) o haciendo alguna otra prueba por el estilo. Se deberán dar cuenta, o en su defecto avisar, de que el globo contenía una nota musical. En el momento en que encuentren 3 notas musicales habrán superado la prueba y deberán de recibir la pista de la Prueba 2 (sapagarigulo) y darle la parte del puzzle final correspondiente.
+
+### Prueba 2 (Adri - Sapagarigulo):
+
+#### Materiales 
 - Lona de plástico
 - Jabón
 - Barreños
 - Huevos
 - Pintura o colorante azul
-### Prueba 3:
+#### Preparación
+
+Extender las lonas azules por el suelo (juntas), untarlas con jabón y tirar un par de cubos de agua antes de la prueba.
+
+#### Ejecución
+
+Los niños deberán de hacer una carrera de relevos de ir y volver por la lona con un huevo. Bajando deberán de ir de culo pero subiendo pueden hacerlo de la forma que quieran. Si rompen el huevo deberán de salir de la lona, subir y volver a hacerlo. Cuando todo el equipo haya hecho la prueba (aprox) deberán de recibir la pista de la Prueba 3.
+### Prueba 3 (Paula - Interpeñas)
+
+#### Material 
 - Mantel de papel (dianas)
 - Esponjas
 - Colorante rojo y pintura roja
 - Dos cubos o barreños
-### Prueba 4:
+#### Preparación
+
+Colgar las dianas en la pared de Interpeñas que da al camino de la Cañada con celo o en su defecto con la mano ayudanose del monitor del equipo, tener llenados los barreños de agua con colorante y pintura y dejar dentro las esponjas.
+
+#### Ejecución
+
+Cuando todos los niños hayan acertado una vez en cada diana los niños habrán superado la prueba y deberán recibir la pista para ir a la Prueba 4.
+
+### Prueba 4 (Inés - Ermita de la Muela)
+
+#### Materiales
 - Colorante verde
 - Harina
 - Caramelos
+
+#### Preparación
+
+
 ### Prueba 5:
 - Canicas
 - Maicena

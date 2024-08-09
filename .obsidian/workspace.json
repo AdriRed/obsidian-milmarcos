@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/Macrojuego.md",
+                "file": "2024/Campus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/Macrojuego.md",
+                "file": "2024/Campus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/Macrojuego.md"
+                "file": "2024/Campus.md"
               }
             }
           },
@@ -178,10 +177,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0b31e2d454d3dbe7",
+  "active": "42432fbb34f00bd4",
   "lastOpenFiles": [
-    "2024/Campus.md",
     "2024/Macrojuego.md",
+    "2024/Campus.md",
     "2024/Disfraces.md",
     "2024/Mapa macrojuego.png",
     "2024"
