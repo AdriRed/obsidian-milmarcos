@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9d061752104a4244",
+        "id": "13ddbc0ce574cb9b",
         "type": "tabs",
         "children": [
           {
-            "id": "42432fbb34f00bd4",
+            "id": "59ed7c03fc32463c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024/Campus.md",
+                "file": "2024/Disfraces.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0b31e2d454d3dbe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024/Macrojuego.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e165b55d8710af19",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2024/Mapa macrojuego.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024/Macrojuego.md",
+                "file": "2024/Disfraces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024/Macrojuego.md",
+                "file": "2024/Disfraces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024/Macrojuego.md"
+                "file": "2024/Disfraces.md"
               }
             }
           },
@@ -177,7 +154,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "80036902f07318bc",
+  "active": "59ed7c03fc32463c",
   "lastOpenFiles": [
     "2024/Campus.md",
     "2024/Macrojuego.md",

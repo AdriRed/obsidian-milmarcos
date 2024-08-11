@@ -28,7 +28,7 @@ La temática de este año son los JJOO, coincidiendo con los celebrados en Parí
 
 # Planteamiento
 
-El planteamiento de la noche será una presentación del deporte, introducción a los contrincantes (al estilo de velada, un poco picando) junto con las delegaciones, que haya una pelea de dos partes, que en media parte se sienten los contricantes con los entrenadores y les pongan el taburete, masaje, toalla, agua (estilo Rocky) en la esquina del ring. Finalmente al terminar el combate y que caiga uno de los dos contrincantes KO, que haya una valoración y una entrega de medallas.
+El planteamiento de la noche será una presentación del deporte, introducción a los contrincantes (al estilo de velada, un poco picando) junto con las delegaciones, que haya una pelea de dos partes, que en media parte se sienten los contricantes con los entrenadores y les pongan el taburete, masaje, toalla, agua (estilo Rocky) cada esquina del ring. Finalmente al terminar el combate y que caiga uno de los dos contrincantes KO, que haya una valoración y una entrega de medallas.
 
 ## Puesta en escena
  
