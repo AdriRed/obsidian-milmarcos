@@ -44,27 +44,36 @@ Cuando esté montado, que se enciendan las luces, introducir el evento y empezar
 
 Cuando se recupere, los jueces deberán de valorar y levantar uno de los números (altos). Y finalmente el árbitro deberá coger a los dos contrincantes y levantar la mano del de la delegación española y entregarle la medalla de oro.
 
-## Puesta en escena por tiempo
+## Teatro
 
 ### 1. Montaje y presentación del evento
 
-Mientras suena Sirius, con las luces apagadas, se monta y una voz en off presenta el evento
+Mientras suena Sirius, con las luces apagadas, se monta el ring y una voz en off presenta el evento
 
-> Buenas noches milmarqueños! Bienvenidos al combate de la noche, donde se va a disputar la final de Boxeo! 
-
+> Buenas noches milmarqueños y milmarqueñas! Bienvenidos al final del combate de boxeo de éstas olimpiadas noche, donde el actual campeón de Colombia podrá defender el título frente a España! Va a ser un combate decisivo donde algunos ganarán y otros perderán.
 ### 2. Introducción a las selecciones 
+
+> Bueno vamos a empezar con la introducción de las selecciones!
 
 #### 2.1. Selección colombiana
 
-> **Desde los oscuros rincones de los Tejedores de Milmarcos, representando a Colombia, con un peso de 93 kg, tenemos al tipo que piensa que mudarse a California le hará más cool. Sobrevivió a un raquetazo de un anónimo y es el actual campeón gaitero de boxeo.**  
-> **¡Darle la bienvenida al colombiano Alberto "El Tenebroso" Navarro!** 
+Que vayan al final del frontón
+
+> **Desde los oscuros rincones de los Tejedores de Milmarcos, representando a Colombia, con un peso de 93 kg, tenemos al tipo que piensa que piensa saltar la valla para ir a California.  Sobrevivió a un raquetazo de un anónimo y es el actual campeón gaitero de boxeo.**  
+> **¡Darle la bienvenida al colombiano Alberto "El Tenebroso"!** (Aquí empieza a sonar John Cena)
+
+Mientras suena John Cena.
 #### 2.2 Selección española
 
-> Antes de introducir voy a pedir que apaguen todas las luces del escenar
+Que vayan al final del frontón
+
+> Y ahora para introducir a la selección española, representando a España desde Madrid, con un peso de 95 kg, el hijo del gran Juanma... Creo que hay interferencias... (en este momento se deberán de apagar las luces del escenario y con luces mostrar a alvarito al final del frontón) 
+
+> Un fuerte aplauso al león de Montepinar. AaaalVarito!
 
 #### 2.3 Careo
 
-
+> Quiero combates justos 
 ### 3. Combates
 
 ### 4. Final
