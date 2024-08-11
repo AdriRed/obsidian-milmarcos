@@ -67,14 +67,14 @@ Mientras suena John Cena.
 
 Que vayan al final del frontón
 
-> Y ahora para introducir a la selección española, representando a España desde Madrid, con un peso de 95 kg, el hijo del gran Juanma... Creo que hay interferencias... (en este momento se deberán de apagar las luces del escenario y con luces mostrar a alvarito al final del frontón) 
+> Y ahora para introducir a la selección española, representando a España desde Madrid, con un peso de 69 kg, el hijo del gran Juanma... Creo que hay interferencias... (en este momento se deberán de apagar las luces del escenario y con luces mostrar a alvarito al final del frontón) 
 
 > Un fuerte aplauso al león de Montepinar. AaaalVarito!
-
 #### 2.3 Careo
-
-> Quiero combates justos 
+> Quiero un combate limpio, sin ningun tipo de trampa
 ### 3. Combates
+
+Cuando salga el presentador, salga una de las mujeres para poner el ROUND 1 y suene el sonido del Ring. Aquí se hace coreografía hasta dentro de 30 segundos que vuelva a sonar el ring. Donde los contrincantes irán a cada una de las esquinas. 
 
 ### 4. Final
 
