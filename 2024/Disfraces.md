@@ -44,5 +44,30 @@ Cuando esté montado, que se enciendan las luces, introducir el evento y empezar
 
 Cuando se recupere, los jueces deberán de valorar y levantar uno de los números (altos). Y finalmente el árbitro deberá coger a los dos contrincantes y levantar la mano del de la delegación española y entregarle la medalla de oro.
 
+## Puesta en escena por tiempo
+
+### 1. Montaje y presentación del evento
+
+Mientras suena Sirius, con las luces apagadas, se monta y una voz en off presenta el evento
+
+> Buenas noches milmarqueños! Bienvenidos al combate de la noche, donde se va a disputar la final de Boxeo! 
+
+### 2. Introducción a las selecciones 
+
+#### 2.1. Selección colombiana
+
+> **Desde los oscuros rincones de los Tejedores de Milmarcos, representando a Colombia, con un peso de 93 kg, tenemos al tipo que piensa que mudarse a California le hará más cool. Sobrevivió a un raquetazo de un anónimo y es el actual campeón gaitero de boxeo.**  
+> **¡Darle la bienvenida al colombiano Alberto "El Tenebroso" Navarro!** 
+#### 2.2 Selección española
+
+> Antes de introducir voy a pedir que apaguen todas las luces del escenar
+
+#### 2.3 Careo
+
+
+### 3. Combates
+
+### 4. Final
+
 
 
