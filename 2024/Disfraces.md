@@ -32,13 +32,13 @@ El planteamiento de la noche será una presentación del deporte, introducción 
 
 ## Puesta en escena
  
-Al principio, con las luces apagadas y una canción de intriga ([Sirius, The Alan Parsons Project](https://www.youtube.com/watch?v=feoHV5JUbuo)), mientras se monta en el escenario el Ring.
+Al principio, con las luces apagadas y una canción de intriga [Sirius, The Alan Parsons Project](https://www.youtube.com/watch?v=feoHV5JUbuo), mientras se monta en el escenario el Ring.
 
 El Ring consistirá de 4 palos puestos en el suelo con 4 ladrillos y 2 cuerdas o 3 en función de la distáncia rodeando y delimitando el propio ring. Las cuerdas se deberán de sujetar con cinta adhesiva (mucha).
 
 Junto al Ring, podría haber una mesa con los jueces puestos hacia el propio Ring.
 
-Cuando esté montado, que se enciendan las luces, introducir el evento y empezar con las presentaciones. Se introducirá a la delegación y al final entrará desde el final del frontón con un pasillo (se tendrán que avisar al publico) y sonando música (a apuntar). En concreto la delegación española con Alvarito al frente, y la delegación colombiana, con Alberto al frente con la canción [The Time is Now, John Ceena](https://www.youtube.com/watch?v=svjMiqVeiG8).  
+Cuando esté montado, que se enciendan las luces, introducir el evento y empezar con las presentaciones. Se introducirá a la delegación y al final entrará desde el final del frontón con un pasillo (se tendrán que avisar al publico) y sonando música (a apuntar). En concreto la delegación española con Alvarito al frente con la canción [Till I Collapse, Eminem (a partir del segundo 30)](https://youtu.be/Pi3_Zs-oRUo?si=kAokJk6lGlv79WHq&t=30), y la delegación colombiana, con Alberto al frente con la canción [The Time is Now, John Ceena](https://www.youtube.com/watch?v=svjMiqVeiG8).  
 
 Éstos dos serán los contrincantes, que participarán en el Ring. La pelea deberá ser rápida ya que habremos consumido mucho tiempo con las presentaciones. Como son dos Rounds, podríamos hacer rounds de 30, 45 segundos. Durante el descanso de Rounds, los contrincantes deberán ir a sus respectivas esquinas donde tendrán el apoyo del entrenador (taburete!) y su delegación. AL final del segundo round el contrincante de Colombia perderá y habrá un KO.
 
